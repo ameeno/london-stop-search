@@ -1,0 +1,5 @@
+!git clone https://github.com/ameeno/london-stop-search.git
+
+%cd london-stop-search/
+!git pull https://github.com/ameeno/london-stop-search.git
+%cd ..
